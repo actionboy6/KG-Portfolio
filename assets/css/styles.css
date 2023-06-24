@@ -374,7 +374,7 @@ footer {
   }
 
   .bio {
-    margin-top: -7rem;
+    margin-top: 2rem;
     width: 20.5rem;
   }
 
@@ -399,6 +399,12 @@ footer {
   .projects-container {
     flex-direction: column;
   }
+
+  /* .div {
+    background-image: url("assets\images\Bearded Reviews.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+  } */
 
   .project-container {
     width: 20.875rem;
